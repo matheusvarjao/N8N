@@ -1,0 +1,3 @@
+// primeiro "projeto" do curso foi criar uma integração que lê o documento do google sheets (planilha) e escreve no N8N o que está dentro do conteúdo. Foi necessário
+criar uma API pelo google 
+
